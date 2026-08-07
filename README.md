@@ -17,7 +17,7 @@ production repositories, with agent instructions versioned alongside the code.
 - **[Quero Brinde](https://querobrinde.com.br)** — LED acrylic lamp business I co-founded.
   Built the sales channel from scratch and a Python pipeline with the Google Gemini API that
   cut content production from 22 minutes to 1.5 minutes per product.
-- **Mahalo Brownie** — brownie business running since 2015. I built and run its financial
+- **[Mahalo Brownie](https://www.mahalobrownie.com.br)** — brownie business running since 2015. I built and run its financial
   system: Laravel, PostgreSQL, ERP integration over OAuth 2.0, idempotent sync jobs and an
   automated monthly income statement.
 
